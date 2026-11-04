@@ -38,7 +38,7 @@ def Login():
                 break
 
     #Login
-    print("Login:\n")
+    print("\nLogin:")
     while True:
         username = input("Enter username (-1 to exit): ")
         if(username == "-1"):

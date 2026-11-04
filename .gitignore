@@ -1,3 +1,7 @@
 .venv
 .vscode
 Student-Performance-Analyzer.code-workspace
+utils/__pycache__
+data
+
+.gitignore
